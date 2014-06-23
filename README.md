@@ -1,0 +1,4 @@
+Puppet
+======
+
+Sample Puppet Manifests
